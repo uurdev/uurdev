@@ -20,6 +20,10 @@
 <!-- ### Languages and Tools: -->
 <!-- [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist] -->
 
+
+### Unity is strength, come to your discord channel
+[<img align="left" alt="uurdev | Instagram" width="22px" target="_blank" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
+<br />
 ---
 
 ### 📺 Latest YouTube Videos
@@ -45,3 +49,4 @@
 [youtube]: https://www.youtube.com/channel/UCc2nLCDvmfjvp9f65KAQdYw
 [instagram]: https://www.instagram.com/ugur.cftci
 [linkedin]: https://www.linkedin.com/in/uurciftci
+[discord]: https://discord.gg/TGSTvT
