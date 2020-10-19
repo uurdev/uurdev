@@ -1,20 +1,12 @@
 ### Hi there, I'm Uğur Çiftçi - I am a Software Developer 👋
 
-<!-- ## I'm a Husband, Father, Developer, and Teacher!
-- 🔭 I’m currently working on a [VS Code Course][website]!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
--->
+
 ### Connect with me:
 
 [<img align="left" alt="github.com/uurdev" target="_blank" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="uurdev | YouTube" width="22px"  target="_blank" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="uurdev | Twitter" width="22px" target="_blank" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="uurdev | LinkedIn" width="22px" target="_blank" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="uurdev | Instagram" width="22px" target="_blank" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="uurdev | Instagram" width="22px" target="_blank" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
 
 <br />
 
@@ -43,6 +35,4 @@
 [website]: https://github.com/uurdev
 [twitter]: https://twitter.com/uurdev
 [youtube]: https://www.youtube.com/channel/UCc2nLCDvmfjvp9f65KAQdYw
-[instagram]: https://www.instagram.com/ugur.cftci
 [linkedin]: https://www.linkedin.com/in/uurciftci
-[discord]: https://discord.gg/TGSTvT
