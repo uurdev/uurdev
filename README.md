@@ -20,7 +20,6 @@
 <!-- - [Top 10 VS Code Updates You Don't Know About!! (July 2020)](https://www.youtube.com/watch?v=WHBQ1szkhtI) -->
 <!-- YOUTUBE:END -->
 
----
 
 <!--  ### 📕 Latest Blog Posts -->
 <!-- BLOG-POST-LIST:START -->
@@ -28,7 +27,6 @@
 <!--  - [Microinteractions: Password Validation Animation](https://dev.to/codestackr/microinteractions-password-validation-animation-5629) -->
 <!-- BLOG-POST-LIST:END -->
 
----
 
 <img align="left" alt="uurdev's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=uurdev&show_icons=true&hide_border=true" />
 
