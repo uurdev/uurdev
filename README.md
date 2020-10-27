@@ -7,14 +7,14 @@
 [<img align="left" alt="uurdev | YouTube" width="22px"  target="_blank" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="uurdev | Twitter" width="22px" target="_blank" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="uurdev | LinkedIn" width="22px" target="_blank" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
+[<img align="left" alt="uurdev | Hackerrank" width="22px" target="_blank" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />][hackerrank]
 <br />
 
 <!-- ### Languages and Tools: -->
 <!-- [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist] -->
 
 
-### 📺 Latest YouTube Videos
+<!-- ### 📺 Latest YouTube Videos -->
 <!-- YOUTUBE:START -->
 <!--  example -->
 <!-- - [Top 10 VS Code Updates You Don't Know About!! (July 2020)](https://www.youtube.com/watch?v=WHBQ1szkhtI) -->
@@ -22,7 +22,7 @@
 
 ---
 
-### 📕 Latest Blog Posts
+<!--  ### 📕 Latest Blog Posts -->
 <!-- BLOG-POST-LIST:START -->
 <!-- example -->
 <!--  - [Microinteractions: Password Validation Animation](https://dev.to/codestackr/microinteractions-password-validation-animation-5629) -->
@@ -36,3 +36,4 @@
 [twitter]: https://twitter.com/uurdev
 [youtube]: https://www.youtube.com/channel/UCc2nLCDvmfjvp9f65KAQdYw
 [linkedin]: https://www.linkedin.com/in/uurciftci
+[hackerrank]: https://www.hackerrank.com/uurdev
