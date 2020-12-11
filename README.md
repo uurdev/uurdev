@@ -28,7 +28,7 @@
 <!-- BLOG-POST-LIST:END -->
 
 
-<img align="left" alt="uurdev's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=uurdev&show_icons=true&hide_border=true" />
+<!-- <img align="left" alt="uurdev's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=uurdev&show_icons=true&hide_border=true" /> -->
 
 [website]: https://github.com/uurdev
 [twitter]: https://twitter.com/uurdev
