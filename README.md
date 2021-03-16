@@ -1,7 +1,7 @@
 ### Hi there, I'm Uğur Çiftçi - I am a Software Developer 👋
 
 
-### Connect with me:
+<!-- ### Connect with me: -->
 
 <!-- [<img align="left" alt="github.com/uurdev" target="_blank" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] -->
 <!-- [<img align="left" alt="uurdev | YouTube" width="22px"  target="_blank" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]  -->
