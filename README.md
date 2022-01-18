@@ -1,6 +1,6 @@
 ### Hi there, I'm Uğur Çiftçi - I am a Software Developer 👋
 
-![snake gif](https://github.com/uurdev/uurdev/blob/output/github-contribution-grid-snake.gif)
+![snake svg](https://github.com/uurdev/uurdev/blob/output/github-contribution-grid-snake.svg)
 
 <!-- ### Connect with me: -->
 
