@@ -1,4 +1,4 @@
-### Hi there, I'm Uğur Çiftçi - I am a Software Developer 👋
+### Hi there, I'm Uğur Çiftçi 👋
 
 ![snake svg](https://github.com/uurdev/uurdev/blob/output/github-contribution-grid-snake.svg)
 
