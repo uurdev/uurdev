@@ -1,6 +1,6 @@
 ### Hi there, I'm Uğur Çiftçi 👋
 
-![snake svg](https://github.com/uurdev/uurdev/blob/output/github-contribution-grid-snake.svg)
+<!-- ![snake svg](https://github.com/uurdev/uurdev/blob/output/github-contribution-grid-snake.svg) -->
 
 <!-- ### Connect with me: -->
 
